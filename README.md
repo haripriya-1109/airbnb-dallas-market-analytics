@@ -208,29 +208,39 @@ airbnb-dallas-market-analytics/
 ├── Host Portfolio Distribution.png
 ├── Pricing & Demand.png
 ├── data_cleaning.ipynb
-└── README.md
-```text
+└── README.md```text
 
 
 
-  ## Limitations
+
+
+### Limitations
+
 - Recent review counts are used as a proxy for customer activity and do not represent direct booking demand.
 - Listing availability represents calendar availability and does not directly measure occupancy.
 - Price analysis reflects listed prices rather than realized booking prices.
 - Neighborhood comparisons with fewer listings should be interpreted cautiously.
 - The analysis is descriptive and does not establish causal relationships.
 
-## Data Source
-Data sourced from Inside Airbnb, using Dallas listing data.
+### Data Source
+
+Data sourced from **Inside Airbnb**, using Dallas listing data.
+
 The raw dataset is not included in this repository. The cleaned data was used for analysis in SQL Server and Tableau.
 
+### Skills Demonstrated
 
-## Skills Demonstrated
-Data Analytics:
+**Data Analytics:**  
 Data cleaning, exploratory analysis, segmentation, trend analysis, business insight generation
-SQL:
+
+**SQL:**  
 Aggregations, GROUP BY, CASE statements, CTEs, window functions, ranking, percentiles, filtering
-Visualization:
+
+**Visualization:**  
 Tableau dashboards, calculated fields, geographic analysis, KPI design, interactive filters
-Business Analysis:
+
+**Business Analysis:**  
 Market segmentation, competitive pricing analysis, operational analysis, recommendation development
+
+
+  
