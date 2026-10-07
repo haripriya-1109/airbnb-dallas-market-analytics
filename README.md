@@ -208,11 +208,8 @@ airbnb-dallas-market-analytics/
 ├── Host Portfolio Distribution.png
 ├── Pricing & Demand.png
 ├── data_cleaning.ipynb
-└── README.md```text
-
-
-
-
+└── README.md
+```
 
 ### Limitations
 
