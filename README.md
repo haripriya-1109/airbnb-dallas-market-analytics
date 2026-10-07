@@ -123,11 +123,11 @@ Explores:
 
 ---
 
-### 3. Host Supply & Operations
+### 3. Host Portfolio Distribution
 
 Analyzes:
 
-- Host portfolio distribution
+- Host data and Listings under them
 - Average price by host type
 - Availability by host type
 - Recent guest activity by host type
